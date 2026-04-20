@@ -16,3 +16,6 @@ Note: You need to install the LÖVE app to run your lua projects.
 - Go back to the editor and click run!
 
 Note: For now, this app can only run uncompressed LÖVE projects and will support .love files in the future. **Happy Coding!**
+
+## Source Code
+The app is built in Sketchware Pro, a visual-based IDE and the source code can be found in Sketchub.
