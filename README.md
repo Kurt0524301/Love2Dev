@@ -1,5 +1,5 @@
 # Love2Dev
-Love2Dev is an editor built on top of my LuaEdit project with the sole purpose of creating love2d (LÖVE) games.
+Love2Dev is an mobile editor with the sole purpose of creating love2d (LÖVE) games.
 
 Note: You need to install the LÖVE app to run your lua projects.
 
@@ -15,7 +15,11 @@ Note: You need to install the LÖVE app to run your lua projects.
 - Click the icon on the top right to set the path as the build path.
 - Go back to the editor and click run!
 
-Note: For now, this app can only run uncompressed LÖVE projects and will support .love files in the future. **Happy Coding!**
+~~Note: For now, this app can only run uncompressed LÖVE projects and will support .love files in the future.~~
+
+Update: You can now run both uncompressed/project directories and .love files directly in app! **Happy Coding!**
 
 ## Source Code
 The app is built in Sketchware Pro, a visual-based IDE and the source code can be found in Sketchub.
+
+https://web.sketchub.in/p/30431
