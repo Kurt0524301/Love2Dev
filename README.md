@@ -1,12 +1,12 @@
 # Love2Dev
-Love2Dev is an mobile editor with the sole purpose of creating love2d (LÖVE) games.
+Love2Dev is an mobile editor with the sole purpose of creating love2d (LÖVE) games. Check the [Releases](https://github.com/kz3r01n/Love2Dev/releases/tag/Release) for latest builds.
 
 Note: You need to install the LÖVE app to run your lua projects.
 
 ## Creating a new LÖVE project
-- Go to the file manager in the app.
+- Go to the in-app file manager.
 - Create or select your project directory (e.g. love2d)
-- Create your main.lua file
+- Create your main.lua file (if not yet created)
 - Set the current directory as your project/build path (refer to running a LÖVE project below).
 - Open main.lua and click the play/run button to test if it works.
 
