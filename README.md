@@ -1,5 +1,5 @@
 # Love2Dev
-Love2Dev is an mobile editor with the sole purpose of creating love2d (LÖVE) games. Check the [Releases](https://github.com/kz3r01n/Love2Dev/releases/tag/Release) for latest builds.
+Love2Dev is an mobile editor with the sole purpose of creating love2d (LÖVE) games. Check the [Releases](https://github.com/kz3r01n/Love2Dev/releases) for latest builds.
 
 Note: You need to install the LÖVE app to run your lua projects.
 
